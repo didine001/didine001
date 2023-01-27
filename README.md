@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/T1fjZKhm/banner.png)
+![MasterHead](https://i.postimg.cc/mgpskMsL/banner.png)
 <h1 align="center">Hi 👋, I'm Amandine Guenassia</h1>
 <h3 align="center">1ère année de Bachelor en développement web.</h3>
 
