@@ -1,14 +1,14 @@
 ![MasterHead](https://i.postimg.cc/mgpskMsL/banner.png)
 <h1 align="center">Hi 👋, I'm Amandine Guenassia</h1>
-<h3 align="center">1ère année de Bachelor en développement web.</h3>
+<h3 align="center">1st year of Bachelor in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didine001&label=Profile%20views&color=0e75b6&style=flat" alt="didine001" /> </p>
 
-- 🔭 I’m currently working on **WiveApp**
+- 🔭 I’m currently working on **WiveApp and PetFinder**
 
-- 🌱 I’m currently learning **AJax and Json**
+- 🌱 I’m currently learning **SQL on MongoDB**
 
-- 👯 I’m looking to collaborate on **Website projects**
+- 👯 I’m looking to collaborate on **Website projects and all that can be exciting ! **
 
 - 📫 How to reach me **aguenassia@gmail.com**
 
