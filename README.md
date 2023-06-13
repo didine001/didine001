@@ -1,4 +1,4 @@
-[![Nouveau-projet-2.jpg](https://i.postimg.cc/Gh41wQrP/Nouveau-projet-2.jpg)](https://postimg.cc/xcVZLLXq)
+[![Capture.png](https://i.postimg.cc/VsGdWDDX/Capture.png)](https://postimg.cc/kDSJnFr5)
 <h1 align="center">Hi 👋, I'm Amandine Guenassia</h1>
 <h3 align="center">1st year of Bachelor in web development.</h3>
 
