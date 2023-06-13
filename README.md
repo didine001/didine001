@@ -1,8 +1,6 @@
-![MasterHead](https://i.postimg.cc/mgpskMsL/banner.png)
+![MasterHead](https://ibb.co/XZSFJNc)
 <h1 align="center">Hi 👋, I'm Amandine Guenassia</h1>
 <h3 align="center">1st year of Bachelor in web development.</h3>
-
-<p align="left"> <img src="https://ibb.co/XZSFJNc" alt="didine001" /> </p>
 
 - 🔭 I’m currently working on **WiveApp and my API **
 
