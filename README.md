@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/Gh41wQrP/Nouveau-projet-2.jpg)
+![MasterHead](https://postimg.cc/xcVZLLXq)
 <h1 align="center">Hi 👋, I'm Amandine Guenassia</h1>
 <h3 align="center">1st year of Bachelor in web development.</h3>
 
