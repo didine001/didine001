@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amandine Guenassia</h1>
 <h3 align="center">1st year of Bachelor in web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=didine001&label=Profile%20views&color=0e75b6&style=flat" alt="didine001" /> </p>
+<p align="left"> <img src="https://ibb.co/XZSFJNc" alt="didine001" /> </p>
 
 - 🔭 I’m currently working on **WiveApp and my API **
 
